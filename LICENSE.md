@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Liquidity Bot for birdeye sniper bot | back-running & take-profit is the best birdeye sniper bot, featuring back-running and take-profit. Fast, smart, and optimized
 
 
 
